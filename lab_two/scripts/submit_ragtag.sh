@@ -14,7 +14,7 @@ conda activate BIOS424
 
 prefix="2R"
 ragtag_dir="$SCRATCH/BIOS424/lab_two/ragtag"
-reference="D.melanogaster.fa"
+reference="D.melanogaster.fa.gz"
 query="$SCRATCH/BIOS424/lab_two/purge/${prefix}.purged.fa"
 clean_ragtag="${ragtag_dir}/${prefix}.scaffolded.fasta"
 
