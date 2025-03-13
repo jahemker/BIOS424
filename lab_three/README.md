@@ -85,7 +85,10 @@ We can visualize SVs by looking at the read alignments against a reference genom
 I'm going to demonstrate using Jbrowse2 in class. You are welcome to download it on your computer, along with the dummy data provided, or you can download your own if you have it.
 
 ---
+### Tris' visualizations
 Installing mummer
 ```
 mamba install bioconda::mummer4
 ```
+
+Install these swordtail data. [Chromosome](https://drive.google.com/file/d/1YNrMawPyc5IXFJLHtuA6Pdoi-6TMdHLx/view?usp=drive_link) and [reference](https://drive.google.com/file/d/1QIlv7PRWHD2x9IIF44qfX40wD5qvjlOd/view?usp=drive_link).
