@@ -84,6 +84,15 @@ We can visualize SVs by looking at the read alignments against a reference genom
 
 I'm going to demonstrate using Jbrowse2 in class. You are welcome to download it on your computer, along with the dummy data provided, or you can download your own if you have it.
 
+Example loci for SVs:
+```
+2R	10669768	10669769
+2R	11167776	11167777
+2R	12291451	12291452
+2R	12789344	12789345
+2R	14911752	14911753
+```
+
 ---
 ## Visualizing complex SVs from assemblies
 
